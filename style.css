@@ -1,3 +1,7 @@
-.container img {
+.carousel-inner img {
     filter: brightness(60%);
+}
+
+.card {
+    background-color: #F4FDFA;
 }
